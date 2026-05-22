@@ -9,3 +9,13 @@ For fellow students or anyone starting out in tech, here is how these two platfo
 🌐 LinkedIn (The Professional Hub): This is my digital storefront. It’s where I connect with industry experts, share my milestones, and bridge the gap between my academic life and the tech industry. It tells the world who I am.
 
 By combining the two, I can back up my networking with real, tangible proof of my skills. I am incredibly excited to keep optimizing both profiles as I advance in my AI and engineering journey
+
+
+
+editted again=
+Code Storage and Version Control: It acts as a secure cloud drive for your code, tracking every single change you make so you can roll back errors easily.
+
+Showcase Portfolio: It allows you to host and display your coding projects
+to show potential employers exactly what you can build.
+
+Global Collaboration: It connects you with millions of developers worldwide, making it easy to share code, contribute to open-source software, and work together on team projects.
